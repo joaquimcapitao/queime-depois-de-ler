@@ -1,7 +1,3 @@
----
-layout: style-light
----
-
 # O Desporto Perfeito
 
 Há dias, assisti a uma cena dramática no supermercado. Uma mãe negou um chocolate ao seu pequeno filho. E é claro que, perante aquela injustiça, o miúdo ativou o protocolo de negociação infantil: atirou-se para o chão e começou a berrar. 
